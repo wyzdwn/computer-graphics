@@ -1,2 +1,2 @@
 # computer-graphics
-PKU 计算机图形学
+图形学
